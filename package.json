@@ -1,5 +1,6 @@
 {
   "name": "template-v.6.0.0",
+  "homepage": "http://react-test.easymanages.com/build/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
