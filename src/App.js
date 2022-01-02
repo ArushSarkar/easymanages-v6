@@ -2,10 +2,11 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  let val = "red";
   return (
     <div className="App">
       <header className="App-header">
-        <h1>This is a test.</h1>
+        <h1>This is a {val}.</h1>
       </header>
     </div>
   );
