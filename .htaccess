@@ -1,2 +1,2 @@
 RewriteEngine on
-RewriteRule ^build/$ /yourfile.php [L]
+RewriteRule ^build/$ /index.html [L]
